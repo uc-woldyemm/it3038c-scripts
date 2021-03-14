@@ -1,5 +1,5 @@
 # Simple Snake Game in Python 3 for Beginners
-# By James with the help of TokyoEdTech
+# By Mekdelawit with the help of TokyoEdTech
 # Part 1: Getting Starting
 
 import turtle
@@ -14,7 +14,7 @@ high_score = 0
 
 # Set up the screen
 wn = turtle.Screen()
-wn.title("Snake hero by nani aka womanizer")
+wn.title("Snake hero by mekdelawit aka womanizer")
 wn.bgcolor("Red")
 wn.setup(width=600, height=600)
 wn.tracer(0) # Turns off screen updates
