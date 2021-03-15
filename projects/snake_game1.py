@@ -1,5 +1,5 @@
 # Simple Snake Game in Python 3 for Beginners
-# By Mekdelawit with the help of TokyoEdTech
+# Organized by Mekdelawit with the help of TokyoEdTech
 # Part 1: Getting Starting
 
 import turtle
