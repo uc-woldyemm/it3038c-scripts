@@ -1,0 +1,8 @@
+- It's a code game where user makes a guess
+- It defines the variable and asks user to enter their guess
+- It will then check if the user guess greater number or lower number to generate the answer
+- If user guesses greater than random number then it prints lower and it user guess lower number then it prints higher
+- When the game starts it will loop and repat until guess is correct
+- It increse tries by 1, each time loop repeats
+- And it will ask user to try again
+- Finally if the guess becomes equal to random number then it prints the winning result. 
